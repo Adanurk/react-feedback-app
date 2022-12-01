@@ -1,4 +1,5 @@
 import PropTypes from "prop-types";
+// with this we can define types of props
 
 function Header({ text, bgColor, textColor }) {
   const headerStyles = {
